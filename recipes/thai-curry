@@ -1,1 +1,38 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href= "../index.html">Home</a>
+    <h1>Thai Curry Tofu</h1>
+  <img src = "tofu.jpg">
+  <h2>Description</h2>
+  <p>This quick recipe is perfect for cold days outside, and for cozy and quick dinners with family and friends.</p>
+  <h2>Ingredients</h2>  
+  <ul>
+    <li>1 tablespoon canola oil</li>
+    <li>1 (12 ounce) package extra-firm tofu, drained and cubed</li>
+    <li>1 tablespoon seasoned salt, or to taste</li>
+    <li>1 tablespoon butter or margarine</li>
+    <li>1 small onion, chopped</li>
+    <li>3 cloves garlic, minced</li>
+    <li>1 can coconut milk</li>
+    <li>2 teaspoon curry powder</li>
+    <li>1/2 teaspoon salt</li>
+    <li>1/4 teaspoon ground black pepper</li>
+    <li>1/4 cup chopped fresh cilantro</li>
+  </ul>
+  <h2>Directions</h2> 
+  <ol>
+    <li>Heat oil in a large skillet over medium-high heat.Add tofu cubes, season with seasoned salt and fry until golden on all sides,
+        stirring occasionally, about 15 minutes. Remove to paper towels, and set aside.   </li>
+    <li>Melt butter or margarine in the same skillet over medium heat. </li>
+    <li>Add the onion and garlic; cook and stir until tender. Stir in coconut milk, curry powder, salt, pepper and cilantro. Return the tofu to the skillet.  </li>
+    <li> Simmer over low heat for 15 minutes, stirring occasionally. </li>
+  </ol>
+    
+</body>
+</html>
